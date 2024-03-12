@@ -394,7 +394,7 @@
                               <a href="products.php" style="font-weight:bold;">BICHEMVIT A</a>
                           </td>
                           <td style="text-align:center;">
-                            <a href="products.php" style="font-weight:bold;">BICHEMPROL</a>
+                            <a href="detail.aspx?product=bichemprol" style="font-weight:bold;">BICHEMPROL</a>
                           </td>
                       </tr>
 
